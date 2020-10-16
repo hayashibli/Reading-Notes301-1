@@ -10,7 +10,7 @@
 
 | Day  |   Date    |                               Link                               |
 | :---: | :-------: |  :---------------------------------------------------------------: |
-| Day1  | //2020 | [class-01]() |
+| Day1  | 17/10/2020 | [class-01](https://maisabdalrazeq.github.io/Reading-Notes301/class-01) |
 | Day2  | //2020 |  [class-02]() |
 | Day3  | //2020 | [class-03]() |
 | Day4  | //2020 |  [class-04]() |
