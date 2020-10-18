@@ -1,6 +1,6 @@
 # Read-01 Respoonsive web design and floats.
 
-[Home](https://sayefdeen.github.io/reading-notes301/)
+
 
 ## Responsive Web Design
 
