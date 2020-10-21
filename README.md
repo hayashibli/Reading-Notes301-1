@@ -14,7 +14,7 @@
 | Day2  |  [class-02](https://maisabdalrazeq.github.io/Reading-Notes301/class-02) |
 | Day3  | [class-03](https://maisabdalrazeq.github.io/Reading-Notes301/class-03) |
 | Day4  |   [class-04](https://maisabdalrazeq.github.io/Reading-Notes301/class-04) |
-| Day5  |   [class-05]() |
+| Day5  |   [class-05](https://maisabdalrazeq.github.io/Reading-Notes301/class-05) |
 | Day6  |  [class-06]() |
 | Day7  |   [class-07]() |
 | Day8  |   [class-08]() |
